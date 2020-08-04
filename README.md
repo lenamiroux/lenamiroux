@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋
+## I'm Helena, but my friends call me Lena.
+#### A Brazilian Graphic Designer / Product Designer / Service Designer / UX Designer / Developer / Hacker... Someone that loves to solve a puzzle.
 
-<!--
-**lenamiroux/lenamiroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: She/Her
+- 📚 I’m currently learning: React and React Native
+- 🛠 I’m looking to collaborate on: Open Source Projects about Social Change, Women Empowerment and LGBTQ+ Rights. 
+- 💬 Ask me about: UX Design, Graphic Design, Front-end Development, Arduino, Portuguese, Anything.
+- 📫 How to reach me: 
+  - Email: mailto:helena.simoes@me.com
+  - LinkedIn:https://www.linkedin.com/in/lenamiroux/
+  - Behance: http://behance.net/lenamiroux
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖖 Fun fact: I REALLY love tea, sci-fi, cats and Lego. And if left unattended I will spend all my money in stationary, electronics and things for my cats.
