@@ -1,8 +1,8 @@
 ### Hello 👋
 ## I'm Helena, but my friends call me Lena.
-#### A Brazilian Graphic Designer / Product Designer / Service Designer / UX Designer / Developer / Hacker... Someone that loves to solve a puzzle.
+#### A Brazilian Graphic Designer / Product Designer / Service Designer / Hacker... Someone that loves to solve a puzzle.
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/They
 - 📚 I’m currently learning: React and React Native
 - 🛠 I’m looking to collaborate on: Open Source Projects about Social Change, Women Empowerment and LGBTQ+ Rights. 
 - 💬 Ask me about: UX Design, Graphic Design, Front-end Development, Arduino, Portuguese, Anything.
