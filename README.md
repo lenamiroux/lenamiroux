@@ -7,7 +7,6 @@
 - 🛠 I’m looking to collaborate on: Open Source Projects about Social Change, Women Empowerment and LGBTQ+ Rights. 
 - 💬 Ask me about: UX Design, Graphic Design, Front-end Development, Arduino, Portuguese, Anything.
 - 📫 How to reach me: 
-  - Email: mailto:helena.simoes@me.com
   - LinkedIn:https://www.linkedin.com/in/lenamiroux/
   - Behance: http://behance.net/lenamiroux
 
